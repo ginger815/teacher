@@ -116,7 +116,11 @@ body {
     position: absolute;
     top: -2000px;
     animation: w 2s ease-in infinite;
-    font-size: 20px;
+    font-size: 22px;
+    z-index: 5;
+    pointer-events: none;
+    white-space: nowrap;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.9), 0 0 4px rgba(255, 255, 255, 0.25);
 }
 
 @keyframes w {
