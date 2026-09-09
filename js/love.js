@@ -338,7 +338,7 @@ var btn = document.getElementById('btn');
 //  var body = document.getElementsByTagName('body')[0]
 //  console.log(body)
 btn.onclick = function() {
-    // if(use_name.value === '张希斌'){
+    // if(use_name.value === '董晓晶'){
     //     zxb()
     // }else if(use_name.value === '赵建利'){
     //     zjl()
@@ -348,11 +348,11 @@ btn.onclick = function() {
     //     alert('没你啥事')
     // }
     switch (use_name.value) {
-        case '张希彬':
+        case '董晓晶':
             zxb();
             break;
         default:
-            alert('输错了哦，必须输入您的姓名才可以进入哦！ 例如：王飞龙');
+            alert('输错了哦，必须输入您的姓名才可以进入哦！ 例如：姜山');
     }
     inner()
 }
@@ -363,54 +363,54 @@ function zxb() {
                                 </div>
                                 <div class="heart"></div>
                                 <embed src="../radio/儿歌 - 虫儿飞.mp3" width=50px height=50px type=audio/mpeg loop="true" autostart="true" ></embed>
-                                <div class='w' id="w1">张老师你真帅</div>
-                                <div class='w' id="w2">张老师高大威猛</div>
-                                <div class='w' id="w3">张老师越来越帅</div>
-                                <div class='w' id="w4">张老师教师节快乐</div>
-                                <div class='w' id="w5">张老师玉树临风</div>
-                                <div class='w' id="w6">祝张老师身体健康</div>
-                                <div class='w' id="w7">张老师天天开心</div>
-                                <div class='w' id="w8">张老师一天比一天帅</div>
-                                <div class='w' id="w9">张老师你是贝程最帅</div>
-                                <div class='w' id="w10">张老师英俊潇洒</div>
-                                <div class='w' id="w11">张老师你真帅</div>
-                                <div class='w' id="w12">张老师你最帅</div>
-                                <div class='w' id="w13">张老师越来越帅</div>
-                                <div class='w' id="w14">张老师教师节快乐</div>
-                                <div class='w' id="w15">张老师越活越年轻</div>
-                                <div class='w' id="w16">张老师风流倜傥</div>
-                                <div class='w' id="w17">张老师天天开心</div>
-                                <div class='w' id="w18">张老师一天比一天帅</div>
-                                <div class='w' id="w19">张老师你是贝程最帅</div>
-                                <div class='w' id="w20">张老师教师节快乐</div>
-                                <div class='w' id="w21">祝张老师幸福每一天</div>
-                                <div class='w' id="w22">张老师风度翩翩</div>
-                                <div class='w' id="w23">张老师你真帅</div>
-                                <div class='w' id="w24">张老师你是世界上最棒的人</div>
-                                <div class='w' id="w25">张老师越来越帅</div>
-                                <div class='w' id="w26">张老师教师节快乐</div>
-                                <div class='w' id="w27">张老师越活越年轻</div>
-                                <div class='w' id="w28">祝张老师身体健康</div>
-                                <div class='w' id="w29">张老师天天开心</div>
-                                <div class='w' id="w30">张老师一天比一天帅</div>
-                                <div class='w' id="w31">张老师器宇轩昂</div>
-                                <div class='w' id="w32">张老师教师节快乐</div>
-                                <div class='w' id="w33">张老师你真帅</div>
-                                <div class='w' id="w34">张老师英明神武</div>
-                                <div class='w' id="w35">张老师越来越帅</div>
-                                <div class='w' id="w36">张老师教师节快乐</div>
-                                <div class='w' id="w37">张老师越活越年轻</div>
-                                <div class='w' id="w38">祝张老师身体健康</div>
-                                <div class='w' id="w39">张老师风流倜傥</div>
-                                <div class='w' id="w40">张老师一天比一天帅</div>
-                                <div class='w' id="w41">张老师你是贝程最帅</div>
-                                <div class='w' id="w42">张老师教师节快乐</div>
-                                <div class='w' id="w43">祝张老师幸福每一天</div>
-                                <div class='w' id="w44">张老师玉树临风</div>
-                                <div class='w' id="w45">张老师你最帅</div>
-                                <div class='w' id="w46">张老师越来越帅</div>
-                                <div class='w' id="w47">张老师教师节快乐</div>
-                                <div class='w' id="w48">张老师越活越年轻</div>
-                                <div class='w' id="w49">祝张老师身体健康</div>
-                                <div class='w' id="w50">张老师越来越帅</div>`
+                                <div class='w' id="w1">董老师你真帅</div>
+                                <div class='w' id="w2">董老师高大威猛</div>
+                                <div class='w' id="w3">董老师越来越帅</div>
+                                <div class='w' id="w4">董老师教师节快乐</div>
+                                <div class='w' id="w5">董老师玉树临风</div>
+                                <div class='w' id="w6">祝董老师身体健康</div>
+                                <div class='w' id="w7">董老师天天开心</div>
+                                <div class='w' id="w8">董老师一天比一天帅</div>
+                                <div class='w' id="w9">董老师你是贝程最帅</div>
+                                <div class='w' id="w10">董老师英俊潇洒</div>
+                                <div class='w' id="w11">董老师你真帅</div>
+                                <div class='w' id="w12">董老师你最帅</div>
+                                <div class='w' id="w13">董老师越来越帅</div>
+                                <div class='w' id="w14">董老师教师节快乐</div>
+                                <div class='w' id="w15">董老师越活越年轻</div>
+                                <div class='w' id="w16">董老师风流倜傥</div>
+                                <div class='w' id="w17">董老师天天开心</div>
+                                <div class='w' id="w18">董老师一天比一天帅</div>
+                                <div class='w' id="w19">董老师你是贝程最帅</div>
+                                <div class='w' id="w20">董老师教师节快乐</div>
+                                <div class='w' id="w21">祝董老师幸福每一天</div>
+                                <div class='w' id="w22">董老师风度翩翩</div>
+                                <div class='w' id="w23">董老师你真帅</div>
+                                <div class='w' id="w24">董老师你是世界上最棒的人</div>
+                                <div class='w' id="w25">董老师越来越帅</div>
+                                <div class='w' id="w26">董老师教师节快乐</div>
+                                <div class='w' id="w27">董老师越活越年轻</div>
+                                <div class='w' id="w28">祝董老师身体健康</div>
+                                <div class='w' id="w29">董老师天天开心</div>
+                                <div class='w' id="w30">董老师一天比一天帅</div>
+                                <div class='w' id="w31">董老师器宇轩昂</div>
+                                <div class='w' id="w32">董老师教师节快乐</div>
+                                <div class='w' id="w33">董老师你真帅</div>
+                                <div class='w' id="w34">董老师英明神武</div>
+                                <div class='w' id="w35">董老师越来越帅</div>
+                                <div class='w' id="w36">董老师教师节快乐</div>
+                                <div class='w' id="w37">董老师越活越年轻</div>
+                                <div class='w' id="w38">祝董老师身体健康</div>
+                                <div class='w' id="w39">董老师风流倜傥</div>
+                                <div class='w' id="w40">董老师一天比一天帅</div>
+                                <div class='w' id="w41">董老师你是贝程最帅</div>
+                                <div class='w' id="w42">董老师教师节快乐</div>
+                                <div class='w' id="w43">祝董老师幸福每一天</div>
+                                <div class='w' id="w44">董老师玉树临风</div>
+                                <div class='w' id="w45">董老师你最帅</div>
+                                <div class='w' id="w46">董老师越来越帅</div>
+                                <div class='w' id="w47">董老师教师节快乐</div>
+                                <div class='w' id="w48">董老师越活越年轻</div>
+                                <div class='w' id="w49">祝董老师身体健康</div>
+                                <div class='w' id="w50">董老师越来越帅</div>`
 }
